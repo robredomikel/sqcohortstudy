@@ -6,4 +6,4 @@ example.ipynb
 .idea
 
 # Ignoring csv file for now
-cleanRepos.csv
+*.csv
