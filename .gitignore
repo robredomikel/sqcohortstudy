@@ -4,3 +4,6 @@ example.ipynb
 
 # Ignoring some automatic folders
 .idea
+
+# Ignoring csv file for now
+cleanRepos.csv
