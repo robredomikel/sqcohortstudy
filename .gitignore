@@ -1,5 +1,6 @@
 # Ignored files for github
 ASSIGNMENT_03_PART1.ipynb
+draft.ipynb
 
 # Ignoring some automatic folders
 .idea
@@ -14,6 +15,8 @@ ASSIGNMENT_03_PART1.ipynb
 *.json
 
 # Ignoring specific readme files
-JiraDataCrawler/1.DataDownload/jiraProjectIssues/README.md
+JiraDataCrawler/1.DataDownload/jiraProjectIssues/
+JiraDataCrawler/1.DataDownload/README.md
+JiraDataCrawler/1.DataDownload/DownloadData.ipynb
 JiraDataCrawler/2.OverviewAnalysis/
 
