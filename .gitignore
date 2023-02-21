@@ -1,6 +1,7 @@
-# Ignored files for github
+# Ignored Jupyter files
 ASSIGNMENT_03_PART1.ipynb
 draft.ipynb
+commitsCrawler(untouched).ipynb
 
 # Ignoring some automatic folders
 .idea
@@ -14,9 +15,11 @@ draft.ipynb
 # Ignoring json files
 *.json
 
-# Ignoring specific readme files
+# Ignoring specific files
 JiraDataCrawler/1.DataDownload/jiraProjectIssues/
 JiraDataCrawler/1.DataDownload/README.md
 JiraDataCrawler/1.DataDownload/DownloadData.ipynb
 JiraDataCrawler/2.OverviewAnalysis/
+
+githubIssueTables/*.csv
 
