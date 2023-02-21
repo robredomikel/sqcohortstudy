@@ -1,9 +1,20 @@
 # Ignored files for github
 ASSIGNMENT_03_PART1.ipynb
-githubIssueTables/issueCrawlerGithub.ipynb
+
 
 # Ignoring some automatic folders
 .idea
 
 # Ignoring csv file for now
 *.csv
+
+# Ignoring txt files
+*.txt
+
+# Ignoring json files
+*.json
+
+# Ignoring specific readme files
+JiraDataCrawler/1.DataDownload/jiraProjectIssues/README.md
+JiraDataCrawler/2.OverviewAnalysis/
+
