@@ -1,6 +1,6 @@
 # Ignored Jupyter files
 ASSIGNMENT_03_PART1.ipynb
-draft.ipynb
+collectionMerge.ipynb
 commitsCrawler(untouched).ipynb
 
 # Ignoring some automatic folders
@@ -23,4 +23,6 @@ JiraDataCrawler/2.OverviewAnalysis/
 
 githubIssueTables/*.csv
 
-githubProjectsIssueCounts/apache/
+githubProjectsCommitData/apache/
+
+gitRepo/
