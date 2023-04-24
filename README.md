@@ -1,2 +1,2 @@
-# thesisProject
-This project covers all the work developed for my Master's thesis. As I'm working in the process of the project, this is the most I can say about it so far.
+# Replication package for the ESEM article "Cohort in Action: A Pilot study on the SonarQube Issue Impacting the Development Velocity"
+
